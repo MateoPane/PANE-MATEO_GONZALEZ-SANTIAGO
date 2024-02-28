@@ -1,0 +1,6 @@
+2024-02-27 21:57:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGO(MATRICULA, NOMBRE, APELLIDO) VALUES (?,?,?) [42104-214]
+2024-02-27 21:57:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ODONTOLOGO" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGO [42104-214]
